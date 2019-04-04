@@ -1,0 +1,21 @@
+{
+  "name": "geologic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-wiki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server && open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhinebaugh/geologic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhinebaugh/geologic/issues"
+  },
+  "homepage": "https://github.com/bhinebaugh/geologic#readme"
+}
